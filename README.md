@@ -1,2 +1,2 @@
 # TreeMix
-Running TreeMix Software
+TreeMix Tutorial
